@@ -16,3 +16,5 @@
 16. Git restore
 17. Git cherry-pick
 18. Git stash
+19. Set-ExecutionPolicy RemoteSigned
+20. Set-ExecutionPolicy Unrestricted
